@@ -1,9 +1,15 @@
 ### Hi everyone! I'm Joan!
-- Pronouns: he/him/his
-- How to reach me:[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/joan-perez-lozano-a85310119/)
-[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:joanperezl123@gmail.com)
+Pronouns: he/him/his
+
 
 [![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=jplaudir8&show_icons=true&hide_border=true)](https://github.com/jplaudir8)
+<br/>
+Contact me via:<br/> <br/>
+[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/joan-perez-lozano-a85310119/)
+[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:joanperezl123@gmail.com)
+
+
+
 
 <!--
 **Jplaudir8/jplaudir8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
