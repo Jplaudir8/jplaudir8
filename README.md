@@ -1,7 +1,7 @@
 ### Hi everyone! I'm Joan!
 - Pronouns: he/him/his
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joan-perez-lozano-a85310119/)](https://www.linkedin.com/in/joan-perez-lozano-a85310119/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joanperezl123@gmail.com)](mailto:joanperezl123@gmail.com)
+- How to reach me:[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/joan-perez-lozano-a85310119/)
+[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:joanperezl123@gmail.com)
 
 [![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=jplaudir8&show_icons=true&hide_border=true)](https://github.com/jplaudir8)
 
