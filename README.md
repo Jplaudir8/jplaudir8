@@ -1,4 +1,4 @@
-### Hi everyone! I'm Joan!
+### Hi everyone!
 Pronouns: he/him/his
 
 
