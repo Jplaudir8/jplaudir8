@@ -2,7 +2,7 @@
 Pronouns: he/him/his
 
 
-[![utilForever's github stats](https://github-readme-stats.vercel.app/api?username=jplaudir8&show_icons=true&hide_border=true)](https://github.com/jplaudir8)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=jplaudir8&show_icons=true&hide_border=true)](https://github.com/jplaudir8)
 <br/>
 Contact me via:<br/> <br/>
 [<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/joan-perez-lozano-a85310119/)
