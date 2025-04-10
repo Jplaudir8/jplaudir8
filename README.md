@@ -1,5 +1,3 @@
-### Hi everyone!
-Pronouns: he/him/his
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=jplaudir8&show_icons=true&hide_border=true)](https://github.com/jplaudir8)
